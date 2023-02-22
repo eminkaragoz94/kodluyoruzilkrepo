@@ -7,6 +7,8 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo. 1 adet README dosyası ve 
 
 ## Usage
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
+
+Linux için:
 > cd kodluyoruzilkrepo      
 code .
 
